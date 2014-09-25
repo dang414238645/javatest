@@ -18,7 +18,6 @@ import test.extend.Person;
 
 public class Test<T> {
 	public static void main(String [] args) throws NoSuchFieldException, SecurityException, IllegalArgumentException, IllegalAccessException, InvocationTargetException{
-//		System.out.println("Hello , World!");
 		Manager boss=new Manager("Carl Cracher",80000,1987,12,15,10000);
 		Employee[] staff=new Employee[3];
 		staff[0] =boss;
