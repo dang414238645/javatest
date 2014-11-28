@@ -1,0 +1,2 @@
+2014-09-30 15:40:42,982 - ResourceManager : unable to find resource 'test.vm' in any resource loader.
+2014-09-30 15:41:58,986 - ResourceManager : unable to find resource 'template\test.vm' in any resource loader.

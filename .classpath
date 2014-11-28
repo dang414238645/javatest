@@ -101,6 +101,7 @@
 	<classpathentry kind="var" path="M2_REPO/com/caucho/hessian/4.0.38/hessian-4.0.38.jar" sourcepath="M2_REPO/com/caucho/hessian/4.0.38/hessian-4.0.38-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/net/jini/jini-core/2.1/jini-core-2.1.jar"/>
 	<classpathentry kind="var" path="M2_REPO/net/jini/jini-ext/2.1/jini-ext-2.1.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/velocity/velocity/1.7/velocity-1.7.jar" sourcepath="M2_REPO/org/apache/velocity/velocity/1.7/velocity-1.7-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/umic.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
