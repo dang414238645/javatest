@@ -15,7 +15,7 @@ public class EvenChecker implements Runnable{
 
 	public void run() {
 		while (!intGenerator.isCanceled()) {
-			int val=intGenerator.next();
+			int val=intGenerator.nextLock();
 			if(val%2!=0){
 				System.out.println(val+" is not even!");
 				intGenerator.cancel();
