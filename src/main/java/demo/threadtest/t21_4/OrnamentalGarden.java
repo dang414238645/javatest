@@ -52,7 +52,7 @@ class Entrance implements Runnable{
 
 	@Override
 	public String toString() {
-		return "Entrance [ id=" + getValue() + "]";
+		return "Entrance [ "+id+"=" + getValue() + "]";
 	}
 	public static int getTotalCount(){return count.value();}
 	

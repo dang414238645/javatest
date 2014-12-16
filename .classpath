@@ -12,6 +12,7 @@
 	<classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar" sourcepath="M2_REPO/javax/activation/activation/1.1/activation-1.1-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar" sourcepath="M2_REPO/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/javax/inject/javax.inject/1/javax.inject-1.jar" sourcepath="M2_REPO/javax/inject/javax.inject/1/javax.inject-1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="var" path="M2_REPO/junit/junit/4.8.1/junit-4.8.1.jar" sourcepath="M2_REPO/junit/junit/4.8.1/junit-4.8.1-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-webmvc/3.2.4.RELEASE/spring-webmvc-3.2.4.RELEASE.jar" sourcepath="M2_REPO/org/springframework/spring-webmvc/3.2.4.RELEASE/spring-webmvc-3.2.4.RELEASE-sources.jar"/>
@@ -85,13 +86,13 @@
 	<classpathentry kind="var" path="M2_REPO/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar" sourcepath="M2_REPO/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar" sourcepath="M2_REPO/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar" sourcepath="M2_REPO/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26-sources.jar"/>
-	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-core/1.9/jersey-core-1.9.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-core/1.9/jersey-core-1.9-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-core/1.3/jersey-core-1.3.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-json/1.9/jersey-json-1.9-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar" sourcepath="M2_REPO/org/codehaus/jettison/jettison/1.1/jettison-1.1-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar" sourcepath="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-jaxrs/1.8.3/jackson-jaxrs-1.8.3.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-jaxrs/1.8.3/jackson-jaxrs-1.8.3-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-xc/1.8.3/jackson-xc-1.8.3.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-xc/1.8.3/jackson-xc-1.8.3-sources.jar"/>
-	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-server/1.9/jersey-server-1.9-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-server/1.3/jersey-server-1.3.jar"/>
 	<classpathentry kind="var" path="M2_REPO/asm/asm/3.1/asm-3.1.jar" sourcepath="M2_REPO/asm/asm/3.1/asm-3.1-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/tomcat/jasper-compiler/5.5.12/jasper-compiler-5.5.12.jar"/>
 	<classpathentry kind="var" path="M2_REPO/tomcat/jasper-runtime/5.5.23/jasper-runtime-5.5.23.jar"/>
@@ -115,6 +116,7 @@
 	<classpathentry kind="var" path="M2_REPO/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0.jar" sourcepath="M2_REPO/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/google/inject/guice/3.0/guice-3.0.jar" sourcepath="M2_REPO/com/google/inject/guice/3.0/guice-3.0-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/io/netty/netty/3.6.6.Final/netty-3.6.6.Final.jar" sourcepath="M2_REPO/io/netty/netty/3.6.6.Final/netty-3.6.6.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-client/1.3/jersey-client-1.3.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/contribs/jersey-guice/1.9/jersey-guice-1.9.jar" sourcepath="M2_REPO/com/sun/jersey/contribs/jersey-guice/1.9/jersey-guice-1.9-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/github/stephenc/findbugs/findbugs-annotations/1.3.9-1/findbugs-annotations-1.3.9-1.jar" sourcepath="M2_REPO/com/github/stephenc/findbugs/findbugs-annotations/1.3.9-1/findbugs-annotations-1.3.9-1-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/apache/hbase/hbase-protocol/0.96.2-hadoop2/hbase-protocol-0.96.2-hadoop2.jar" sourcepath="M2_REPO/org/apache/hbase/hbase-protocol/0.96.2-hadoop2/hbase-protocol-0.96.2-hadoop2-sources.jar"/>
@@ -132,6 +134,33 @@
 	<classpathentry kind="var" path="M2_REPO/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar"/>
 	<classpathentry kind="var" path="M2_REPO/oro/oro/2.0.8/oro-2.0.8.jar" sourcepath="M2_REPO/oro/oro/2.0.8/oro-2.0.8-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/apache/hadoop/hadoop-tools/1.2.1/hadoop-tools-1.2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j/2.2.0-M01/neo4j-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j/2.2.0-M01/neo4j-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-kernel/2.2.0-M01/neo4j-kernel-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-kernel/2.2.0-M01/neo4j-kernel-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-primitive-collections/2.2.0-M01/neo4j-primitive-collections-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-primitive-collections/2.2.0-M01/neo4j-primitive-collections-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-io/2.2.0-M01/neo4j-io-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-io/2.2.0-M01/neo4j-io-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-csv/2.2.0-M01/neo4j-csv-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-csv/2.2.0-M01/neo4j-csv-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-lucene-index/2.2.0-M01/neo4j-lucene-index-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-lucene-index/2.2.0-M01/neo4j-lucene-index-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-core/3.6.2/lucene-core-3.6.2.jar" sourcepath="M2_REPO/org/apache/lucene/lucene-core/3.6.2/lucene-core-3.6.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-graph-algo/2.2.0-M01/neo4j-graph-algo-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-graph-algo/2.2.0-M01/neo4j-graph-algo-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-udc/2.2.0-M01/neo4j-udc-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-udc/2.2.0-M01/neo4j-udc-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-graph-matching/2.2.0-M01/neo4j-graph-matching-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-graph-matching/2.2.0-M01/neo4j-graph-matching-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-cypher/2.2.0-M01/neo4j-cypher-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-cypher/2.2.0-M01/neo4j-cypher-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-cypher-compiler-1.9/2.0.4/neo4j-cypher-compiler-1.9-2.0.4.jar" sourcepath="M2_REPO/org/neo4j/neo4j-cypher-compiler-1.9/2.0.4/neo4j-cypher-compiler-1.9-2.0.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-cypher-compiler-2.0/2.0.4/neo4j-cypher-compiler-2.0-2.0.4.jar" sourcepath="M2_REPO/org/neo4j/neo4j-cypher-compiler-2.0/2.0.4/neo4j-cypher-compiler-2.0-2.0.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-cypher-compiler-2.1/2.1.6/neo4j-cypher-compiler-2.1-2.1.6.jar" sourcepath="M2_REPO/org/neo4j/neo4j-cypher-compiler-2.1/2.1.6/neo4j-cypher-compiler-2.1-2.1.6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-cypher-compiler-2.2/2.2.0-M01/neo4j-cypher-compiler-2.2-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-cypher-compiler-2.2/2.2.0-M01/neo4j-cypher-compiler-2.2-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4.jar" sourcepath="M2_REPO/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar" sourcepath="M2_REPO/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/parboiled/parboiled-scala_2.10/1.1.6/parboiled-scala_2.10-1.1.6.jar" sourcepath="M2_REPO/org/parboiled/parboiled-scala_2.10/1.1.6/parboiled-scala_2.10-1.1.6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6.jar" sourcepath="M2_REPO/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar" sourcepath="M2_REPO/net/sf/opencsv/opencsv/2.3/opencsv-2.3-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/googlecode/concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.4/concurrentlinkedhashmap-lru-1.4.jar" sourcepath="M2_REPO/com/googlecode/concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.4/concurrentlinkedhashmap-lru-1.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-jmx/2.2.0-M01/neo4j-jmx-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-jmx/2.2.0-M01/neo4j-jmx-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-consistency-check/2.2.0-M01/neo4j-consistency-check-2.2.0-M01.jar" sourcepath="M2_REPO/org/neo4j/neo4j-consistency-check/2.2.0-M01/neo4j-consistency-check-2.2.0-M01-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/data/spring-data-neo4j/3.2.1.RELEASE/spring-data-neo4j-3.2.1.RELEASE.jar" sourcepath="M2_REPO/org/springframework/data/spring-data-neo4j/3.2.1.RELEASE/spring-data-neo4j-3.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-aspects/4.0.7.RELEASE/spring-aspects-4.0.7.RELEASE.jar" sourcepath="M2_REPO/org/springframework/spring-aspects/4.0.7.RELEASE/spring-aspects-4.0.7.RELEASE-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/aspectj/aspectjrt/1.8.2/aspectjrt-1.8.2.jar" sourcepath="M2_REPO/org/aspectj/aspectjrt/1.8.2/aspectjrt-1.8.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/neo4j/neo4j-cypher-dsl/2.0.1/neo4j-cypher-dsl-2.0.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
